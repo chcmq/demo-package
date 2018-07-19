@@ -1,0 +1,12 @@
+{
+    "name": "chcmq/demo-package",
+    "description": "Laravel test extension package",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "chcmq",
+            "email": "1551572877@qq.com"
+        }
+    ],
+    "require": {}
+}
