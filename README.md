@@ -1,3 +1,3 @@
 ```.txt
-composer require 'chcmq/demo-package'
+composer require chcmq/demo-package
 ```
